@@ -58,7 +58,7 @@ Eligible academic users can request a free non-commercial [Dragonfly academic li
 
 ### Images and CT stacks
 
-The source images and CT stacks will be made available through the Digital Research Alliance of Canada (DRAC).
+The source images and CT stacks will be made available through the Federal Research Data Repository (FRDR), which is operated by the Digital Research Alliance of Canada (DRAC).
 
 > <sub><i>Availability placeholder — add the DRAC collection link when the deposit is available.</i></sub>
 
