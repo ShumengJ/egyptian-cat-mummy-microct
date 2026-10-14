@@ -2,9 +2,9 @@
 
 # The life and afterlife of an ancient Egyptian cat reconstructed by µCT
 
-**Alexandre V. Demers-Potvin<sup>1,\*</sup>, Shumeng Jia<sup>1</sup>, Maris Schneider<sup>2,3</sup>, Antonios Giakoumis<sup>4</sup>, Seyedmahdi Hosseinitabatabaei<sup>1</sup>, Teagan Chow<sup>5</sup>, Isa Shafique<sup>4</sup>, Mazen Asali<sup>6</sup>, Vladimir Brailovski<sup>7</sup>, Anthony Howell<sup>8</sup>, Annie Lussier<sup>9</sup>, Andrew J. Nelson<sup>2</sup>, Natalie Reznikov<sup>1</sup>**
+**Alexandre V. Demers-Potvin, Shumeng Jia<sup>1</sup>, Maris Schneider<sup>2,3</sup>, Antonios Giakoumis<sup>4</sup>, Seyedmahdi Hosseinitabatabaei<sup>1</sup>, Teagan Chow<sup>5</sup>, Isa Shafique<sup>4</sup>, Mazen Asali<sup>6</sup>, Vladimir Brailovski<sup>7</sup>, Anthony Howell<sup>8</sup>, Annie Lussier<sup>9</sup>, Andrew J. Nelson<sup>2</sup>, Natalie Reznikov<sup>1</sup>*
 
-<sup>\*</sup> Corresponding author: Alexandre V. Demers-Potvin  
+<sup>\*</sup> Corresponding author: Natalie Reznikov  
 Repository contact: Shumeng Jia
 
 *Companion repository for a manuscript prepared for the* **Journal of Structural Biology**
