@@ -36,7 +36,7 @@ HERO FIGURE: enable this block after figures/overview.png has been added.
 
 ## Overview
 
-This repository accompanies our µCT investigation of an ancient Egyptian cat mummy. It contains the ImageJ macros, tabular outputs, and Python scripts used to quantify and visualize variation in nasal-turbinate fractal dimension, together with front-page figures and the [supplementary methods](supplementary-text.md).
+This repository accompanies our µCT investigation of an ancient Egyptian cat mummy. It contains the ImageJ macros, tabular outputs, and Python scripts used to quantify and visualize variation in nasal-turbinate fractal dimension, together with supplementary figures and [supplementary text](supplementary-text.md).
 
 The repository supports the computational slice-analysis portion of the study. Volumetric image data and trained Dragonfly model folders are distributed separately because of their size.
 
