@@ -41,7 +41,7 @@ This repository accompanies our µCT investigation of an ancient Egyptian cat mu
 The repository supports the computational slice-analysis portion of the study. Volumetric image data and trained Dragonfly model folders are distributed separately because of their size.
 
 > **Related research**  
-> Discover the wider story of our animal-mummy research through the École de technologie supérieure articles in [English](https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne) and [French](https://www.etsmtl.ca/actualites/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne). If you are in Montréal, we warmly invite you to visit the Egyptian cat at the [Redpath Museum](https://museesmontreal.org/en/museums/redpath-museum). A future virtual museum project will offer another way to explore this work from afar.  
+> Discover the wider story of our animal-mummy research through the École de technologie supérieure articles in [English](https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne) and [French](https://www.etsmtl.ca/actualites/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne). If you are in Montréal, we warmly invite you to view the Egyptian cat at the [Redpath Museum](https://museesmontreal.org/en/museums/redpath-museum). An online virtual museum offers another way to explore this work from afar.  
 > <sub><i>Virtual museum link pending — add the project URL when it is public.</i></sub>
 
 ## Materials and availability
@@ -58,7 +58,7 @@ Eligible academic users can request a free non-commercial [Dragonfly academic li
 
 ### Images and CT stacks
 
-The source images and CT stacks will be made available through the Federal Research Data Repository (FRDR), which is operated by the Digital Research Alliance of Canada (DRAC).
+The source images and CT stacks will be made available through the Federated Research Data Repository (FRDR), which is operated by the Digital Research Alliance of Canada (DRAC).
 
 > <sub><i>Availability placeholder — add the DRAC collection link when the deposit is available.</i></sub>
 
