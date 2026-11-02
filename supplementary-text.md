@@ -1,4 +1,4 @@
-# The life and afterlife of an ancient Egyptian cat reconstructed by µCT – Supplementary text
+# The life and afterlife of an ancient Egyptian cat reconstructed by µCT: Supplementary text
 
 ## Supplementary methods – Slice analysis for fractal dimension measurement
 To ensure anatomical consistency across all specimens, all four µCT reconstructions encompassing the cats’ heads were re-oriented along the same rotational axes in 3D space. To establish roll alignment, the two lowest points of the mandibles were aligned (Southerden et al., 2018). Pitch was aligned parallel to the palatal plate with a 25 mm ruler positioned along the anterior palate, and the dataset rotated until this reference axis lay parallel to the x-axis in 2D view (Weiss et al., 2004). Yaw was aligned relative to the internarial septum, relying on midline symmetry (Díaz Martínez et al., 2024).
