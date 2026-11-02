@@ -12,8 +12,12 @@ RM 7303 may be a wild cat species (as opposed to the domestic cat Felis catus), 
 
 ## References
 Davies, C., Hackman, L., & Black, S. (2014). The persistence of epiphyseal scars in the adult tibia. International Journal of Legal Medicine, 128(2), 335–343. https://doi.org/10.1007/s00414-013-0838-3
+
 Davies, C., Hackman, L., & Black, S. (2015). The epiphyseal scar: Changing perceptions in relation to skeletal age estimation. Annals of Human Biology, 42(4), 348–357. https://doi.org/10.3109/03014460.2015.1031825
+
 Díaz Martínez, E., Arencibia Espinosa, A., Soler Laguía, M., Ayala Florenciano, M. D., Kilroy, D., García García, M. I., Martínez Gomariz, F., Sánchez Collado, C., Gil Cano, F., Jaber, J. R., & Ramírez Zarzosa, G. (2024). The Bony Nasal Cavity and Paranasal Sinuses of Big Felids and Domestic Cat: A Study Using Anatomical Techniques, Computed Tomographic Images Reconstructed in Maximum-Intensity Projection, Volume Rendering and 3D Printing Models. Animals, 14(17), 2609. https://doi.org/10.3390/ani14172609
+
 Southerden, P., Haydock, R. M., & Barnes, D. M. (2018). Three Dimensional Osteometric Analysis of Mandibular Symmetry and Morphological Consistency in Cats. Frontiers in Veterinary Science, 5. https://doi.org/10.3389/fvets.2018.00157
+
 Weiss, K. L., Storrs, J., Weiss, J. L., & Strub, W. (2004). CT Brain Prescriptions in Talairach Space: A New Clinical Standard. American Journal of Neuroradiology, 25(2), 233–237.
 
