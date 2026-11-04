@@ -52,8 +52,7 @@ Eight trained model **folders** will be archived on Zenodo. These are Dragonfly 
 
 Readers who need help with the import can consult or search the official [Dragonfly 3D World online manual](https://www.theobjects.com/dragonfly/dfhelp/2025-1/Default.htm).
 
-> <sub><i>Availability placeholder — add the Zenodo record and DOI when the eight model folders have been deposited.</i></sub>
-https://doi.org/10.5281/zenodo.23924409
+> <sub><i>Availability placeholder — add the Zenodo record and DOI when the eight model folders have been deposited and published.</i></sub>
 
 Eligible academic users can request a free non-commercial [Dragonfly academic licence](https://dragonfly.comet.tech/en/products/license-models/academic-license).
 
@@ -61,7 +60,7 @@ Eligible academic users can request a free non-commercial [Dragonfly academic li
 
 The source images and CT stacks will be made available through the Federated Research Data Repository (FRDR), which is operated by the Digital Research Alliance of Canada (DRAC).
 
-> <sub><i>Availability placeholder — add the DRAC collection link when the deposit is available.</i></sub>
+> <sub><i>Availability placeholder — add the FRDR collection link when the deposit is available.</i></sub>
 
 ## Reproducing the slice analysis
 
