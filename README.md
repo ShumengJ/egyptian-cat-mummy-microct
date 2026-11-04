@@ -53,6 +53,7 @@ Eight trained model **folders** will be archived on Zenodo. These are Dragonfly 
 Readers who need help with the import can consult or search the official [Dragonfly 3D World online manual](https://www.theobjects.com/dragonfly/dfhelp/2025-1/Default.htm).
 
 > <sub><i>Availability placeholder — add the Zenodo record and DOI when the eight model folders have been deposited.</i></sub>
+https://doi.org/10.5281/zenodo.23924409
 
 Eligible academic users can request a free non-commercial [Dragonfly academic licence](https://dragonfly.comet.tech/en/products/license-models/academic-license).
 
