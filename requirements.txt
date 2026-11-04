@@ -1,0 +1,5 @@
+# Python packages for python/02_plot_fractal_profiles.py
+# Versions below were tested with Python 3.13 and reproduce Figure 8C-D.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
