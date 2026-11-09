@@ -54,7 +54,6 @@ Readers who need help with the import can consult or search the official [Dragon
 
 Eligible academic users can request a free non-commercial [Dragonfly academic licence](https://dragonfly.comet.tech/en/products/license-models/academic-license).
 
-## Zenodo record citation
 Demers-Potvin, A. V., Jia, S., & Reznikov, N. (2026). Trained neural networks and slice analysis material for 'The life and afterlife of an ancient Egyptian cat reconstructed by µCT' [Dataset]. Zenodo. (https://doi.org/10.5281/zenodo.23924408)
 
 
