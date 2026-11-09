@@ -48,13 +48,15 @@ The repository supports the computational slice-analysis portion of the study. V
 
 ### Dragonfly segmentation models
 
-Eight trained model **folders** will be archived on Zenodo. These are Dragonfly 3D World model folders—not neural-network weights or checkpoint files. Download each complete folder, then in [Dragonfly 3D World](https://dragonfly.comet.tech/) open **Deep Learning → Import Folders** and select the downloaded folder.
+Eight trained model **folders** will be archived on Zenodo. These are Dragonfly 3D World model folders, not neural-network weights or checkpoint files. Download each complete folder, then in [Dragonfly 3D World](https://dragonfly.comet.tech/) open **Deep Learning → Import Folders** and select the downloaded folder.
 
 Readers who need help with the import can consult or search the official [Dragonfly 3D World online manual](https://www.theobjects.com/dragonfly/dfhelp/2025-1/Default.htm).
 
-> <sub><i>Availability placeholder — add the Zenodo record and DOI when the eight model folders have been deposited and published.</i></sub>
-
 Eligible academic users can request a free non-commercial [Dragonfly academic licence](https://dragonfly.comet.tech/en/products/license-models/academic-license).
+
+## Zenodo record citation
+Demers-Potvin, A. V., Jia, S., & Reznikov, N. (2026). Trained neural networks and slice analysis material for 'The life and afterlife of an ancient Egyptian cat reconstructed by µCT' [Dataset]. Zenodo. (https://doi.org/10.5281/zenodo.23924408)
+
 
 ### Images and CT stacks
 
