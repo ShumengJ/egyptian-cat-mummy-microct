@@ -43,7 +43,7 @@ This repository accompanies our µCT investigation of an ancient Egyptian cat mu
 The repository supports the computational slice-analysis portion of the study. Volumetric image data and trained Dragonfly model folders are distributed separately because of their size.
 
 > **Related research**  
-> Discover the wider story of our animal-mummy research through the École de technologie supérieure articles in [English](https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne) and [French](https://www.etsmtl.ca/actualites/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne). If you are in Montréal, we warmly invite you to view the Egyptian cat at the [Redpath Museum](https://museesmontreal.org/en/museums/redpath-museum). A [virtual museum exhibit] (https://www.chamberofserendipity.ca/index.php) offers another way to explore this work from afar. 
+> Discover the wider story of our animal-mummy research through the École de technologie supérieure articles in [English](https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne) and [French](https://www.etsmtl.ca/actualites/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne). If you are in Montréal, we warmly invite you to view the Egyptian cat at the [Redpath Museum](https://museesmontreal.org/en/museums/redpath-museum). A [virtual museum exhibit](https://www.chamberofserendipity.ca/index.php) offers another way to explore this work from afar. 
 
 ## Materials and availability
 
