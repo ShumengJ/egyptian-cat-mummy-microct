@@ -2,7 +2,7 @@
 
 # The life and afterlife of an ancient Egyptian cat reconstructed by µCT
 
-**Alexandre V. Demers-Potvin<sup>1</sup>, Shumeng Jia<sup>1</sup>, Maris Schneider<sup>2,3</sup>, Antonios Giakoumis<sup>4</sup>, Seyedmahdi Hosseinitabatabaei<sup>1</sup>, Teagan Chow<sup>5</sup>, Isa Shafique<sup>4</sup>, Mazen Asali<sup>6</sup>, Vladimir Brailovski<sup>7</sup>, Anthony Howell<sup>8</sup>, Annie Lussier<sup>9</sup>, Andrew J. Nelson<sup>2</sup>, Natalie Reznikov<sup>1</sup>**
+**Alexandre V. Demers-Potvin<sup>1</sup>, Shumeng Jia<sup>1</sup>, Maris Schneider<sup>2,3</sup>, Antonios Giakoumis<sup>4</sup>, Seyedmahdi Hosseinitabatabaei<sup>1</sup>, Teagan Chow<sup>5</sup>, Isa Shafique<sup>4</sup>, Mazen Asali<sup>6</sup>, Vladimir Brailovski<sup>7</sup>, Anthony Howell<sup>8</sup>, Annie Lussier<sup>9</sup>, Nicholas Piche<sup>7</sup>, Benjamin Provencher<sup>10</sup>, Andrew J. Nelson<sup>2</sup>, Natalie Reznikov<sup>1</sup>,<sup>11</sup>**
 
 <sup>\*</sup> Corresponding author: Natalie Reznikov  
 Repository contact: Shumeng Jia
@@ -20,7 +20,9 @@ Repository contact: Shumeng Jia
 <sup>6</sup> School of Computer Science, McGill University, Montréal, Québec, Canada<br>
 <sup>7</sup> Département de génie mécanique, École de technologie supérieure, Montréal, Québec, Canada<br>
 <sup>8</sup> Natural History, Redpath Museum, McGill University, Montréal, Québec, Canada<br>
-<sup>9</sup> World Cultures, Redpath Museum, McGill University, Montréal, Québec, Canada
+<sup>9</sup> World Cultures, Redpath Museum, McGill University, Montréal, Québec, Canada<br>
+<sup>10</sup> Comet Technologies Canada Inc., Montréal, Québec, Canada<br>
+<sup>11</sup> Department of Anatomy and Cell Biology, McGill University, Montréal, Québec, Canada
 </details>
 
 </div>
