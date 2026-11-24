@@ -106,6 +106,6 @@ See [supplementary-text.md](supplementary-text.md) for the scientific rationale,
 
 If you use this material, please cite the article:
 
-> Demers-Potvin, A. V., Jia, S., Schneider, M., Giakoumis, A., Hosseinitabatabaei, S., Chow, T., Shafique, I., Asali, M., Brailovski, V., Howell, A., Lussier, A., Nelson, A. J., & Reznikov, N. *The life and afterlife of an ancient Egyptian cat reconstructed by µCT*. Manuscript prepared for the *Journal of the Royal Society Interface*.
+> Demers-Potvin, A. V., Jia, S., Schneider, M., Giakoumis, A., Hosseinitabatabaei, S., Chow, T., Shafique, I., Asali, M., Brailovski, V., Howell, A., Lussier, A., Nelson, A. J., & Reznikov, N. *The life and afterlife of an ancient Egyptian cat reconstructed by µCT*. Manuscript in review at *Royal Society Open Science*.
 
 > <sub><i>Citation placeholder — replace the manuscript citation with the final year, volume, pages or article number, and DOI after publication.</i></sub>
